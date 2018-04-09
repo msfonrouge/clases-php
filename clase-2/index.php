@@ -64,5 +64,3 @@ if ($nombreDeUsuario == "admin" && $contraseniaDeUsuario == "1234") {
 echo "<br>";
 echo "<br>";
 echo "<br>";
-
-algo
